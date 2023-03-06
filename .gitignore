@@ -1,3 +1,10 @@
+# No upload files:
+Lupin1.band
+ffmpeg2/
+Lupin_ep1/
+Lupin_ep2/
+Caption_Clips_v1.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +134,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Lupin_ep1/Allez.mp4
+Lupin_ep1/Bonjour.m4v
+Caption_Clips_v1.ipynb
